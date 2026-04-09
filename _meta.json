@@ -1,0 +1,11 @@
+{
+  "name": "数字人剪辑成片",
+  "version": "2.0.0",
+  "description": "当用户提到数字人并且需要剪辑成片时触发，生成数字人口播视频并自动剪辑成品",
+  "author": "清华哥",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code", "cline"],
+  "requirements": {
+    "node": ">=18"
+  },
+  "entry": "SKILL.md"
+}
